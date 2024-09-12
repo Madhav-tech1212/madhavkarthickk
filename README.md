@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhav-tech1212&label=Profile%20views&color=0e75b6&style=flat" alt="madhav-tech1212" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav-tech1212" alt="madhav-tech1212" /></a> </p>
-
 - 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Big Data**
